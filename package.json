@@ -1,6 +1,6 @@
 {
   "name": "mrshas-cli-todo-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a CLI todo list built in TypeScript with Node.js",
   "main": "index.js",
   "type": "module",
@@ -13,7 +13,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["todo", "list", "cli", "command-line-interface", "nodejs","typescript", "mrshas-todos-list"],
+  "keywords": [
+    "todo",
+    "list",
+    "cli",
+    "command-line-interface",
+    "nodejs",
+    "typescript",
+    "mrshas-todos-list"
+  ],
   "author": "mrshas",
   "license": "ISC",
   "dependencies": {
