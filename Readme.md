@@ -46,13 +46,13 @@ Simply run the following command in your terminal (cmd):
 Install:
 
 ```
-npm i mrshas-cli-todos-list
+npm i mrshas-cli-todo-list
 ```
 
 Run:
 
 ```
-npx mrshas-cli-todos-list
+npx mrshas-cli-todo-list
 ```
 ______________________________
 ## Running the Application: ▶️
