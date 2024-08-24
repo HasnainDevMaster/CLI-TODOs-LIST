@@ -29,11 +29,9 @@ Clone this repository to your local directory:
 git clone https://github.com/HasnainDevMaster/CLI-TODOs-LIST.git
 ```
 
-Navigate to the directory where the files are cloned:
+**Note:**
 
-```
-cd CLI-TODOs-LIST
-```
+Ater cloning the files, navigate to the directory in which files are cloned
 
 Install the dependencies by running the following command in your terminal:
 
