@@ -151,15 +151,11 @@ const mainMenu = async () => {
 
 // Main function
 const main = async () => {
-  console.log(
-    chalk.blue("Welcome to your TODOs LIst! Let's get productive.")
-  );
+  console.log(chalk.blue("Welcome to your TODOs LIst! Let's get productive."));
   while (condition) {
     await mainMenu();
   }
-  console.log(
-    chalk.blue("Thank you for using TODOs LIst. Have a great day!")
-  );
+  console.log(chalk.blue("Thank you for using TODOs LIst. Have a great day!"));
 };
 
 main();
